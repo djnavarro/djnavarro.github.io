@@ -55,7 +55,7 @@ My university teaching has focused on teaching statistics and cognitive science 
 
 Also listed are the following resources:
 
-- *Learning Statistics with R*, an award-winning free open access textbook that has been adapted for the JASP and jamovi software packages, with a translation to French (plus proposed translations to Japanese & Spanish)
+- *Learning Statistics with R*, a free open access textbook that has been adapted for the JASP and jamovi software packages, with a translation to French (plus proposed translations to Japanese & Spanish)
 - *Data Visualisation*, materials for a half-day workshop teaching ggplot2 and gganimate
 - *Complex Human Data Summer School*, a 6-day summer school on modern research tools
 
@@ -89,7 +89,6 @@ Research grants, contracts and consultancies valued at \$10k or more are listed 
 
 Over my career I have received various awards and fellowships. Notable examples:
 
-- Society for the Improvement of Psychological Science Mission Award, 2019 
 - Executive Dean's Teaching and Learning Prize 2013, University of Adelaide.
 - ARC Future Fellowship 2012-2015, Australian Research Council
 - ARC Australian Research Fellowship 2007-2011, Australian Research Council
