@@ -67,13 +67,17 @@ theme = "calade"
     url = "/resume/"
     weight = 6
 [[menu.main]]
+    name = "Blog"
+    url = "https://blog.djnavarro.net"
+    weight = 7
+[[menu.main]]
     name = "Essays"
     url = "https://essays.djnavarro.net"
-    weight = 7
+    weight = 8
 [[menu.main]]
     name = "Art"
     url = "https://art.djnavarro.net"
-    weight = 8
+    weight = 9
 
 
 # Parameters used throughout the site.
