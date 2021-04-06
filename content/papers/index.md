@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 447e3e368cd34e26
+rmd_hash: b539cc513cbfdbbc
 
 ---
 
@@ -32,20 +32,25 @@ Accepted manuscripts
 
 -   Navarro, D. J. (in press). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory), [doi](https://doi.org/10.1177/1745691620974769)\]
 -   Hotaling, J. M., Navarro, D. J. & Newell, B. R. (in press). Skilled bandits: Learning to choose in a reactive world. *Journal of Experimental Psychology: Learning, Memory and Cognition.* Accepted 24 Sep 2020. \[[psyarxiv](https://psyarxiv.com/ghmdx/), [doi](https://doi.org/10.1037/xlm0000981)\]
--   De Deyne, S., Navarro, D. J., Collell, G. & Perfors, A. (in press). Visual and affective grounding in language and mind. *Cognitive Science.* Accepted 11 Nov 2020. \[[psyarxiv](https://psyarxiv.com/q97f8), [doi](https://doi.org/10.1111/cogs.12922)\]
--   Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (2020). Protection from uncertainty in the exploration/exploitation trade-off. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Accepted 19 Nov 2020 \[[psyarxiv](https://psyarxiv.com/5y643)\]
--   Devezer, B., Navarro, D. J., Vanderkerckhove, J. & Buzbas, E. O. (in press). The case for formal methodology in scientific reform. *Royal Society Open Science.* Accepted 4 Mar 2021. \[[bioarxiv](https://doi.org/10.1101/2020.04.26.048306)\]
+-   Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (in press). Protection from uncertainty in the exploration/exploitation trade-off. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Accepted 19 Nov 2020 \[[psyarxiv](https://psyarxiv.com/5y643)\]
 
 Preprints, manuscripts, etc
 ---------------------------
 
--   Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D. J., & Sarnecka, B. W. (2019). The exploration advantage: Children's instinct to explore allows them to find information that adults miss. \[[psyarxiv](https://doi.org/10.31234/osf.io/h437v), [osf](https://osf.io/4rzsa/)\]
--   Ransom, K., Voorspoels, W., Navarro, D. J., & Perfors, A. (2019). Where the truth lies: how sampling implications drive deception without lying. \[[psyarxiv](https://doi.org/10.31234/osf.io/pv5tk)\]
--   Towler, A., Growns, B., Navarro, D. J. & Martire, K. (2020). Forensic potato comparison: Does forensic examiners' perceptual expertise generalize to unfamiliar visual stimuli? *Manuscript under review*
--   Kemp, C., Navarro, D. J. & Hayes, B. (submitted). Adjustment for selection bias in intuitive reasoning. *Manuscript under revision*
--   Ledgerwood, A. et al. (2020). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/gdzue)\]
--   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (submitted). Confidence regulates feedback processing during human probabilistic learning. *Manuscript under review*
--   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (submitted). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/nefpz/)\]
+-   Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D. J., & Sarnecka, B. W. (submitted, 2019). The exploration advantage: Children's instinct to explore allows them to find information that adults miss. \[[psyarxiv](https://doi.org/10.31234/osf.io/h437v), [osf](https://osf.io/4rzsa/)\]
+-   Ransom, K., Voorspoels, W., Navarro, D. J., & Perfors, A. (submitted, 2019). Where the truth lies: how sampling implications drive deception without lying. \[[psyarxiv](https://doi.org/10.31234/osf.io/pv5tk)\]
+-   Towler, A., Growns, B., Navarro, D. J. & Martire, K. (submitted, 2020). Forensic potato comparison: Does forensic examiners' perceptual expertise generalize to unfamiliar visual stimuli? *Manuscript under review*
+-   Kemp, C., Navarro, D. J. & Hayes, B. (submitted, 2020). Adjustment for selection bias in intuitive reasoning. *Manuscript under revision*
+-   Ledgerwood, A. et al. (submitted, 2020). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/gdzue)\]
+-   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (submitted, 2020). Confidence regulates feedback processing during human probabilistic learning. *Manuscript under review*
+-   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (submitted, 2021). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/nefpz/)\]
+-   Ledgerwood, A., Pickett, C., Navarro, D. J., Remedios, J. D. & Lewis, N. A. Jr (submitted, 2021) The unbearable limitations of solo science: Team science as a path for more rigorous and relevant research. *Manuscript under review*
+
+2021
+----
+
+-   Devezer, B., Navarro, D. J., Vanderkerckhove, J. & Buzbas, E. O. (2021). The case for formal methodology in scientific reform. *Royal Society Open Science,* 8, 2008052. \[[bioarxiv](https://doi.org/10.1101/2020.04.26.048306), [doi](https://doi.org/10.1098/rsos.200805)\]
+-   De Deyne, S., Navarro, D. J., Collell, G. & Perfors, A. (2021). Visual and affective grounding in language and mind. *Cognitive Science*, 45, e12922. \[[psyarxiv](https://psyarxiv.com/q97f8), [doi](https://doi.org/10.1111/cogs.12922)\]
 
 2020
 ----
