@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: b539cc513cbfdbbc
+rmd_hash: 6e51f9c363d69f7e
 
 ---
 
@@ -33,6 +33,7 @@ Accepted manuscripts
 -   Navarro, D. J. (in press). If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology. *Perspectives on Psychological Science*. Accepted 6 Sep 2020. \[[pdf](./preprint_shepard.pdf), [psyarxiv](https://psyarxiv.com/ygbjp/), [osf](https://osf.io/7cvtk/), [github](https://github.com/djnavarro/shepard-theory), [doi](https://doi.org/10.1177/1745691620974769)\]
 -   Hotaling, J. M., Navarro, D. J. & Newell, B. R. (in press). Skilled bandits: Learning to choose in a reactive world. *Journal of Experimental Psychology: Learning, Memory and Cognition.* Accepted 24 Sep 2020. \[[psyarxiv](https://psyarxiv.com/ghmdx/), [doi](https://doi.org/10.1037/xlm0000981)\]
 -   Walker, A. R., Navarro, D. J., Newell, B. R. & Beesley, T. (in press). Protection from uncertainty in the exploration/exploitation trade-off. *Journal of Experimental Psychology: Learning, Memory, and Cognition.* Accepted 19 Nov 2020 \[[psyarxiv](https://psyarxiv.com/5y643)\]
+-   Ledgerwood, A., Pickett, C., Navarro, D. J., Remedios, J. D. & Lewis, N. A. Jr (in press) The unbearable limitations of solo science: Team science as a path for more rigorous and relevant research. *Brain and Behavioral Science*. Accepted May 1, 2021
 
 Preprints, manuscripts, etc
 ---------------------------
@@ -44,7 +45,6 @@ Preprints, manuscripts, etc
 -   Ledgerwood, A. et al. (submitted, 2020). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/gdzue)\]
 -   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (submitted, 2020). Confidence regulates feedback processing during human probabilistic learning. *Manuscript under review*
 -   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (submitted, 2021). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/nefpz/)\]
--   Ledgerwood, A., Pickett, C., Navarro, D. J., Remedios, J. D. & Lewis, N. A. Jr (submitted, 2021) The unbearable limitations of solo science: Team science as a path for more rigorous and relevant research. *Manuscript under review*
 
 2021
 ----
