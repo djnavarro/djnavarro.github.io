@@ -6,7 +6,7 @@ summary: ""
 author: ""
 tags: []
 date: 2020-09-02
-rmd_hash: 738f465ea4b3fa42
+rmd_hash: 4780839857a22291
 
 ---
 
@@ -44,6 +44,7 @@ Preprints, manuscripts, etc
 -   Ledgerwood, A. et al. (submitted, 2020). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/gdzue)\]
 -   Ben Yehuda, M., Murphy, R., Le Pelley, M., Navarro, D. J. & Yeung, N. (submitted, 2020). Confidence regulates feedback processing during human probabilistic learning. *Manuscript under review*
 -   Liew, S. X., Embrey, J. R., Navarro, D. J. & Newell, B. R. (submitted, 2021). Comparing anticipation and uncertainty-penalty accounts of non-instrumental information seeking. *Manuscript under review* \[[psyarxiv](https://psyarxiv.com/nefpz/)\]
+-   Singmann, H., et al. (submitted, 2021). Statistics in the service of science: Don't let the tail wag the dog. *Manuscript under review* \[[psyarxiv](https://doi.org/10.31234/osf.io/kxhfu)\]
 
 2021
 ----
