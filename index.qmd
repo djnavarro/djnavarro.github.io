@@ -1,0 +1,17 @@
+---
+title: "Danielle Navarro"
+---
+
+Yes hello I am rebuilding this page. Please don't make a geocities-under-construction joke all it will do is remind us both that we're old. But if you are here and looking for my stuff... 
+
+- Blog: [blog.djnavarro.net](https://blog.djnavarro.net)
+- Art: [art.djnavarro.net](https://art.djnavarro.net)
+- Slides: [slides.djnavarro.net](https://slides.djnavarro.net)
+- Papers: [papers.djnavarro.net](https://papers.djnavarro.net)
+- Essays: [essays.djnavarro.net](https://essays.djnavarro.net)
+
+If for some weird reason you are trying to contact me:
+
+- Mastodon: https://fosstodon.org/@djnavarro
+- Github: https://github.com/djnavarro
+- Email: djnavarro@protonmail.com

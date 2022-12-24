@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "djnavarro.net"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://blog.djnavarro.net
+        text: Blog
+      - href: https://art.djnavarro.net
+        text: Art
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
