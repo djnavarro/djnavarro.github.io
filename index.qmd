@@ -1,17 +1,34 @@
 ---
-title: "Danielle Navarro"
+page-layout: full
 ---
 
-Yes hello I am rebuilding this page. Please don't make a geocities-under-construction joke all it will do is remind us both that we're old. But if you are here and looking for my stuff... 
+::: {.grid}
 
-- Blog: [blog.djnavarro.net](https://blog.djnavarro.net)
-- Art: [art.djnavarro.net](https://art.djnavarro.net)
-- Slides: [slides.djnavarro.net](https://slides.djnavarro.net)
-- Papers: [papers.djnavarro.net](https://papers.djnavarro.net)
-- Essays: [essays.djnavarro.net](https://essays.djnavarro.net)
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![blog.djnavarro.net](blog.jpg)](https://blog.djnavarro.net)
+:::
 
-If for some weird reason you are trying to contact me:
 
-- Mastodon: https://fosstodon.org/@djnavarro
-- Github: https://github.com/djnavarro
-- Email: djnavarro@protonmail.com
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![art.djnavarro.net](art.jpg)](https://art.djnavarro.net)
+:::
+
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![slides.djnavarro.net](slides.jpg)](https://slides.djnavarro.net)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![youtube.djnavarro.net](youtube.jpg)](https://youtube.djnavarro.net)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![arrow-user2022.netlify.app](arrow-workshop.png)](https://arrow-user2022.netlify.app/)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![art-from-code.netlify.app](art-from-code.jpg)](https://art-from-code.netlify.app/)
+:::
+
+
+:::
