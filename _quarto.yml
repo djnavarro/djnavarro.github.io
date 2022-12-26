@@ -3,19 +3,32 @@ project:
   output-dir: docs
 
 website:
-  title: "djnavarro.net"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: https://blog.djnavarro.net
-        text: Blog
-      - href: https://art.djnavarro.net
-        text: Art
+  title: "Danielle Navarro"
+  sidebar: 
+    style: "docked"
+    search: false
+    contents:
+      - section: "Contact"
+        contents:
+          - href: https://fosstodon.org/@djnavarro
+            text: fosstodon.org/@djnavarro
+          - href: https://github.com/djnavarro
+            text: github.com/djnavarro
+          - href: mailto:djnavarro@protonmail.com
+            text: djnavarro@protonmail.com
+  
+      - section: "Sites"
+        contents:
+          - href: https://art.djnavarro.net
+            text: art.djnavarro.net
+          - href: https://blog.djnavarro.net
+            text: blog.djnavarro.net
+          - href: https://slides.djnavarro.net
+            text: slides.djnavarro.net
 
 format:
   html:
-    theme: cosmo
+    theme: [darkly, tweaks.scss]
     css: styles.css
     toc: true
 
