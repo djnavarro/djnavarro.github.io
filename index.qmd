@@ -13,13 +13,8 @@ page-layout: full
 [![art.djnavarro.net](art.jpg)](https://art.djnavarro.net)
 :::
 
-
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 [![slides.djnavarro.net](slides.jpg)](https://slides.djnavarro.net)
-:::
-
-::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
-[![youtube.djnavarro.net](youtube.jpg)](https://youtube.djnavarro.net)
 :::
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
@@ -27,8 +22,27 @@ page-layout: full
 :::
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
-[![art-from-code.netlify.app](art-from-code.jpg)](https://art-from-code.netlify.app/)
+[![art-from-code.netlify.app](art-from-code.png)](https://art-from-code.netlify.app/)
 :::
 
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![papers.djnavarro.net](papers.png)](https://papers.djnavarro.net/)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![essays.djnavarro.net](essays.jpg)](https://essays.djnavarro.net)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![ggplot2-book.org](ggplot2-book.png)](https://ggplot2-book.org/)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![learningstatisticswithr.com](lsr.jpg)](https://learningstatisticswithr/)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+[![data-vis-2021.djnavarro.net](visualisation.png)](https://data-vis-2021.djnavarro.net/)
+:::
 
 :::
