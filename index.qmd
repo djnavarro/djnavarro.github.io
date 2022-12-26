@@ -46,3 +46,6 @@ page-layout: full
 :::
 
 :::
+
+<a rel="me" href="https://fosstodon.org/@djnavarro"></a>
+<a rel="me" href="https://genart.social/@djnavarro"></a>
