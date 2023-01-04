@@ -817,10 +817,7 @@ section.contact-me {
     }
 }
 
-/* bad way to do this babe */
-.col-md-6 {
-    display: flex;
-}
+/* hack */
 .separator-post {
     margin-top: 60px;
 }
