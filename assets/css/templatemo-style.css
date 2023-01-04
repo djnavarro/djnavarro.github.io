@@ -821,3 +821,6 @@ section.contact-me {
 .col-md-6 {
     display: flex;
 }
+.separator-post {
+    margin-top: 60px;
+}
