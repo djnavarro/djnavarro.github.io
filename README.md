@@ -1,0 +1,2 @@
+
+Source code for my personal website at https://djnavarro.net. The design of the site is adapted from the freely distributed "reflux template" at https://templatemo.com/tm-531-reflux. The code for my site is heavily simplified relative to the original -- and the somewhat rewritten to suit my own tastes -- because I don't use most of the features supported by the original template.
