@@ -1,0 +1,5 @@
+---
+title: "About me"
+---
+
+Hi there! I'm Danielle Navarro. I'm a data scientist, generative artist, and a recovering academic living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. Then I was a developer advocate. I've sometimes been accused of being a statistician. 

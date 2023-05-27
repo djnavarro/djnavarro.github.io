@@ -1,0 +1,109 @@
+---
+page-layout: full
+---
+
+::: {.banner}
+![](danielle.jpg){width=300px fig-align="center" class="circular"}
+
+::: {.centered}
+# Danielle Navarro
+
+Data scientist, recovering academic, and generative artist
+:::
+
+:::
+
+```{r}
+#| echo: false
+add_card <- function(src, title, text, url, link_text) {
+  lines <- c(
+    '<div class="g-col-4">',
+    '<div class="card h-100">',
+    paste0('<img src="', src, '" class="card-img-top">'),
+    '<div class="card-body">',
+    paste0('<h3 class="card-title">', title, '</h3>'),
+    paste0('<p class="card-text">', text, '</p>'),
+    paste0('<a href="', url, '" class="btn btn-primary">', link_text, '</a>'),
+    '</div>',
+    '</div>',
+    '</div>'
+  )
+  cat(lines, sep="\n")
+}
+```
+
+
+::: {.grid}
+
+```{r}
+#| echo: false
+#| results: asis
+add_card(
+  src = "image/blog-site-splash.jpg",
+  title = "Data science blog", 
+  text = "I write a data science blog, \"Notes from a data witch\". It covers a variety of topics including R, Python, Apache Arrow, Linux, and many other things related to data analysis workflows",
+  url = "https://blog.djnavarro.net",
+  link_text = "blog.djnavarro.net"
+)
+
+add_card(
+  src = "image/art-site-splash.jpg",
+  title = "Generative art", 
+  text = "I have a generative art website where I post various art series under creative commons licences. For some series the source code is also available on github.",
+  url = "https://art.djnavarro.net",
+  link_text = "art.djnavarro.net"
+)
+
+add_card(
+  src = "image/papers-splash.jpg",
+  title = "Academic work", 
+  text = "In a former life I was a tenured academic. I wrote over 100 peer-reviewed papers and 4 books, and have an h-index in the 30s. I was even on the Board of Reviewing Editors at Science for a while. Out of habit I keep a (somewhat) up to date archive of my scientific papers.",
+  url = "https://papers.djnavarro.net",
+  link_text = "papers.djnavarro.net"
+)
+
+add_card(
+  src = "image/art-from-code.jpg",
+  title = "Art from code", 
+  text = "A full-length tutorial on generative art in R released under a CC-BY licence, originally delivered as a workshop for rstudio::conf in 2022.",
+  url = "https://art-from-code.netlify.app",
+  link_text = "art-from-code.netlify.app"
+)
+
+
+add_card(
+  src = "image/arrow-workshop.png",
+  title = "Arrow workshop", 
+  text = "A tutorial on larger than memory workflows in R with Apache Arrow created for the 2021 useR! conference.",
+  url = "https://arrow-user2022.netlify.app",
+  link_text = "arrow-user2022.netlify.app"
+)
+
+add_card(
+  src = "image/lsr-splash.jpg",
+  title = "Learning statistics with R", 
+  text = "An open access introductory statistics textbook that I wrote during my days as an academic, teaching students the R programing language as well as introductory statistics.",
+  url = "https://learningstatisticswithr.com",
+  link_text = "learningstatisticswithr.com"
+)
+
+add_card(
+  src = "image/ggplot2-book-splash.png",
+  title = "The ggplot2 book", 
+  text = "Together with Hadley Wickham and Thomas Lin Pedersen, I am one of the authors of \"ggplot2: Elegant graphics for data analysis\".",
+  url = "https://ggplot2-book.org",
+  link_text = "ggplot2-book.org"
+)
+
+add_card(
+  src = "image/slides-splash.jpg",
+  title = "Data science slides", 
+  text = "My data science slide decks — some of them, at least — are hosted on their own site. They cover a variety of topics in R, Apache Arrow, data science, and practical details of project oriented workflow.",
+  url = "https://slides.djnavarro.net",
+  link_text = "slides.djnavarro.net"
+)
+
+```
+
+:::
+
