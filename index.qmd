@@ -19,7 +19,7 @@ add_card <- function(src, title, text, url, link_text) {
   lines <- c(
     '<div class="g-col-12 g-col-md-4">',
     '<div class="card h-100">',
-    paste0('<img src="', src, '" class="card-img-top">'),
+    paste0('<a href="', url, '"><img src="', src, '" class="card-img-top"></a>'),
     '<div class="card-body">',
     paste0('<h3 class="card-title">', title, '</h3>'),
     paste0('<p class="card-text">', text, '</p>'),
