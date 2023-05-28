@@ -2,5 +2,9 @@
 title: "My contact details"
 ---
 
-Linktree here
-
+- Email: [djnavarro@protonmail.com](mailto:djnavarro@protonmail.com)
+- GitHub: [github.com/djnavarro](https://github.com/djnavarro)
+- Mastodon (data science): [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro)
+- Mastodon (generative art): [@djnavarro@genart.social](https://genart.social/@djnavarro)
+- LinkedIn: [djnavarro](https://www.linkedin.com/in/djnavarro)
+- Twitter (defunct): [@djnavarro](https://twitter.com/@djnavarro)
