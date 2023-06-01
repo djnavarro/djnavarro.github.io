@@ -13,3 +13,12 @@
   padding-top: 50px;
   padding-bottom: 50px;
 }
+
+.card-footer {
+  background-color: #ffffff;
+  border: none;
+}
+
+.card-footer > p {
+  margin-bottom: 10px;
+}

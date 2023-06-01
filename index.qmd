@@ -23,6 +23,8 @@ add_card <- function(src, title, text, url, link_text) {
     '<div class="card-body">',
     paste0('<h3 class="card-title">', title, '</h3>'),
     paste0('<p class="card-text">', text, '</p>'),
+    '</div>',
+    '<div class="card-footer">',
     paste0('<a href="', url, '" class="btn btn-primary">', link_text, '</a>'),
     '</div>',
     '</div>',
