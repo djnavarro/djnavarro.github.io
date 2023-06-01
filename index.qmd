@@ -17,7 +17,7 @@ Data scientist, recovering academic, and generative artist
 #| echo: false
 add_card <- function(src, title, text, url, link_text) {
   lines <- c(
-    '<div class="g-col-12 g-col-md-4">',
+    '<div class="g-col-12 g-col-md-6 g-col-xl-4">',
     '<div class="card h-100">',
     paste0('<a href="', url, '"><img src="', src, '" class="card-img-top"></a>'),
     '<div class="card-body">',
