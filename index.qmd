@@ -3,7 +3,7 @@ page-layout: full
 ---
 
 ::: {.banner}
-![](danielle.jpg){width=300px fig-align="center" class="circular" alt="Profile photo of the author, tightly cropped so that only some of my face is visible, edited to superimpose ghostly images of R package stickers that are only visible in some parts of the image."}
+![](danielle.jpg){width=300px fig-align="center" class="circular" alt="Profile photo of the author with images of R package stickers superimposed."}
 
 ::: {.centered}
 # Danielle Navarro
@@ -81,7 +81,7 @@ add_card(
   src = "image/art-from-code.jpg",
   title = "Art from code", 
   text = "A full-length tutorial on generative art in R released under a CC-BY licence, originally delivered as a workshop for rstudio::conf in 2022.",
-  img_alt = "Three watercolour-style hexagons in red, yellow, and blue, against a dark grey background. Overlaying this is text reading 'Art From Code'.",
+  img_alt = "Three hexagons in red, yellow, and blue against a grey background. Image text reads 'Art From Code'.",
   url = "https://art-from-code.netlify.app",
   link_text = "art-from-code.netlify.app"
 )
