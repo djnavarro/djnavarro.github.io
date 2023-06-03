@@ -3,7 +3,7 @@ page-layout: full
 ---
 
 ::: {.banner}
-![](danielle.jpg){width=300px fig-align="center" class="circular"}
+![](danielle.jpg){width=300px fig-align="center" class="circular" fig.alt="Profile photo of the author, tightly cropped so that only some of my face is visible, edited to superimpose ghostly images of R package stickers that are only visible in some parts of the image."}
 
 ::: {.centered}
 # Danielle Navarro
@@ -15,11 +15,21 @@ Data scientist, recovering academic, and generative artist
 
 ```{r}
 #| echo: false
-add_card <- function(src, title, text, url, link_text) {
+add_card <- function(src, title, text, url, link_text, img_alt) {
   lines <- c(
     '<div class="g-col-12 g-col-md-6 g-col-xl-4">',
     '<div class="card h-100">',
-    paste0('<a href="', url, '"><img src="', src, '" class="card-img-top"></a>'),
+    paste0(
+      '<a href="', 
+      url, 
+      '"><img src="', 
+      src, 
+      '"',
+      'alt = "',
+      img_alt,
+      '"',
+      'class="card-img-top"></a>'
+    ),
     '<div class="card-body">',
     paste0('<h3 class="card-title">', title, '</h3>'),
     paste0('<p class="card-text">', text, '</p>'),
@@ -45,6 +55,7 @@ add_card(
   title = "Data science blog", 
   text = "I write a data science blog, \"Notes from a data witch\". It covers a variety of topics including R, Python, Apache Arrow, Linux, and many other things related to data analysis workflows",
   url = "https://blog.djnavarro.net",
+  img_alt = "A pretty rainbow colour wheel that I created as part of a blog post.",
   link_text = "blog.djnavarro.net"
 )
 
@@ -52,6 +63,7 @@ add_card(
   src = "image/art-site-splash.jpg",
   title = "Generative art", 
   text = "I have a generative art website where I post various art series under creative commons licences. For some series the source code is also available on github.",
+  img_alt = "Generative art showing swirls of yellow against a grey background.",
   url = "https://art.djnavarro.net",
   link_text = "art.djnavarro.net"
 )
@@ -60,6 +72,7 @@ add_card(
   src = "image/papers-splash.jpg",
   title = "Academic work", 
   text = "In a former life I was a tenured academic. I wrote over 100 peer-reviewed papers and 4 books, and have an h-index in the 30s. I was even on the Board of Reviewing Editors at Science for a while. Out of habit I keep a (somewhat) up to date archive of my scientific papers.",
+  img_alt = "Many sheets of white paper laid out semi-randomly.",
   url = "https://papers.djnavarro.net",
   link_text = "papers.djnavarro.net"
 )
@@ -68,6 +81,7 @@ add_card(
   src = "image/art-from-code.jpg",
   title = "Art from code", 
   text = "A full-length tutorial on generative art in R released under a CC-BY licence, originally delivered as a workshop for rstudio::conf in 2022.",
+  img_alt = "Three watercolour-style hexagons in red, yellow, and blue, against a dark grey background. Overlaying this is text reading 'Art From Code'.",
   url = "https://art-from-code.netlify.app",
   link_text = "art-from-code.netlify.app"
 )
@@ -77,6 +91,7 @@ add_card(
   src = "image/arrow-workshop.png",
   title = "Arrow workshop", 
   text = "A tutorial on larger than memory workflows in R with Apache Arrow created for the 2021 useR! conference.",
+  img_alt = "A black hexagon with the Apache Arrow logo, against a textured background in blueish shades.",
   url = "https://arrow-user2022.netlify.app",
   link_text = "arrow-user2022.netlify.app"
 )
@@ -85,6 +100,7 @@ add_card(
   src = "image/lsr-splash.jpg",
   title = "Learning statistics with R", 
   text = "An open access introductory statistics textbook that I wrote during my days as an academic, teaching students the R programing language as well as introductory statistics.",
+  img_alt = "The title of the book, 'Learning Statistics with R', agains a background of jasmine flowers",
   url = "https://learningstatisticswithr.com",
   link_text = "learningstatisticswithr.com"
 )
@@ -93,6 +109,7 @@ add_card(
   src = "image/ggplot2-book-splash.png",
   title = "The ggplot2 book", 
   text = "Together with Hadley Wickham and Thomas Lin Pedersen, I am one of the authors of \"ggplot2: Elegant graphics for data analysis\".",
+  img_alt = "The ggplot2 logo, against a black background",
   url = "https://ggplot2-book.org",
   link_text = "ggplot2-book.org"
 )
@@ -101,6 +118,7 @@ add_card(
   src = "image/slides-splash.jpg",
   title = "Data science slides", 
   text = "My data science slide decks — some of them, at least — are hosted on their own site. They cover a variety of topics in R, Apache Arrow, data science, and practical details of project oriented workflow.",
+  img_alt = "Text reading 'Data science slide decks' in cursive font, against a background showing old-fashiond projector slides.",
   url = "https://slides.djnavarro.net",
   link_text = "slides.djnavarro.net"
 )
