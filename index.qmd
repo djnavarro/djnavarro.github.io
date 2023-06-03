@@ -100,7 +100,7 @@ add_card(
   src = "image/lsr-splash.jpg",
   title = "Learning statistics with R", 
   text = "An open access introductory statistics textbook that I wrote during my days as an academic, teaching students the R programing language as well as introductory statistics.",
-  img_alt = "The title of the book, 'Learning Statistics with R', agains a background of jasmine flowers",
+  img_alt = "The title of the book, 'Learning Statistics with R', against a background of jasmine flowers",
   url = "https://learningstatisticswithr.com",
   link_text = "learningstatisticswithr.com"
 )
@@ -118,7 +118,7 @@ add_card(
   src = "image/slides-splash.jpg",
   title = "Data science slides", 
   text = "My data science slide decks — some of them, at least — are hosted on their own site. They cover a variety of topics in R, Apache Arrow, data science, and practical details of project oriented workflow.",
-  img_alt = "Text reading 'Data science slide decks' in cursive font, against a background showing old-fashiond projector slides.",
+  img_alt = "Old-fashioned projector slides, with the title 'Data science slide decks'.",
   url = "https://slides.djnavarro.net",
   link_text = "slides.djnavarro.net"
 )
