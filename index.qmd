@@ -3,7 +3,7 @@ page-layout: full
 ---
 
 ::: {.banner}
-![](danielle.jpg){width=300px fig-align="center" class="circular" fig.alt="Profile photo of the author, tightly cropped so that only some of my face is visible, edited to superimpose ghostly images of R package stickers that are only visible in some parts of the image."}
+![](danielle.jpg){width=300px fig-align="center" class="circular" alt="Profile photo of the author, tightly cropped so that only some of my face is visible, edited to superimpose ghostly images of R package stickers that are only visible in some parts of the image."}
 
 ::: {.centered}
 # Danielle Navarro
