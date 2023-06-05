@@ -8,3 +8,4 @@ title: "My contact details"
 - Mastodon (generative art): [@djnavarro@genart.social](https://genart.social/@djnavarro)
 - LinkedIn: [djnavarro](https://www.linkedin.com/in/djnavarro)
 - Twitter (defunct): [@djnavarro](https://twitter.com/@djnavarro)
+- Neocities: [djnavarro.neocities.org](https://djnavarro.neocities.org/)
