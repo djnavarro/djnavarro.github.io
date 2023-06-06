@@ -7,4 +7,7 @@ title: "My contact details"
 - Mastodon (data science): [@djnavarro@fosstodon.org](https://fosstodon.org/@djnavarro)
 - Mastodon (generative art): [@djnavarro@genart.social](https://genart.social/@djnavarro)
 - LinkedIn: [djnavarro](https://www.linkedin.com/in/djnavarro)
+- YouTube: [daniellenavarro77](https://www.youtube.com/c/daniellenavarro77)
 - Twitter (defunct): [@djnavarro](https://twitter.com/@djnavarro)
+- Orcid: [0000-0001-7648-6578](https://orcid.org/0000-0001-7648-6578)
+- Google scholar: [QPH_lRIAAAAJ](https://scholar.google.com/citations?user=QPH_lRIAAAAJ)
