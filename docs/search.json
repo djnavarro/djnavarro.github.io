@@ -4,7 +4,49 @@
     "href": "contact/index.html",
     "title": "My contact details",
     "section": "",
-    "text": "Email: djnavarro@protonmail.com\nGitHub: github.com/djnavarro\nMastodon (data science): @djnavarro@fosstodon.org\nMastodon (generative art): @djnavarro@genart.social\nLinkedIn: djnavarro\nTwitter (defunct): @djnavarro\nNeocities: djnavarro.neocities.org"
+    "text": "Email: djnavarro@protonmail.com\nGitHub: github.com/djnavarro\nMastodon (data science): @djnavarro@fosstodon.org\nMastodon (generative art): @djnavarro@genart.social\nLinkedIn: djnavarro\nTwitter (defunct): @djnavarro"
+  },
+  {
+    "objectID": "sites/index.html",
+    "href": "sites/index.html",
+    "title": "My sites",
+    "section": "",
+    "text": "Homepage: djnavarro.net\nBlog: blog.djnavarro.net\nArt: art.djnavarro.net\nAcademic research: papers.djnavarro.net"
+  },
+  {
+    "objectID": "sites/index.html#primary-sites",
+    "href": "sites/index.html#primary-sites",
+    "title": "My sites",
+    "section": "",
+    "text": "Homepage: djnavarro.net\nBlog: blog.djnavarro.net\nArt: art.djnavarro.net\nAcademic research: papers.djnavarro.net"
+  },
+  {
+    "objectID": "sites/index.html#other-data-science-sites",
+    "href": "sites/index.html#other-data-science-sites",
+    "title": "My sites",
+    "section": "Other data science sites",
+    "text": "Other data science sites\n\nData science slides: slides.djnavarro.net\nSoftware (placeholder site only): software.djnavarro.net\nLearning statistics with R: learningstatisticswithr.com\nArrow workshop: arrow-user2022.netlify.app\nData visualisation workshop: satrdayjoburg.djnavarro.net"
+  },
+  {
+    "objectID": "sites/index.html#academic-teaching",
+    "href": "sites/index.html#academic-teaching",
+    "title": "My sites",
+    "section": "Academic teaching",
+    "text": "Academic teaching\n\nMinds and machines: minds-machines-4103.djnavarro.net\nComputational cognitive science: compcogsci-3016.djnavarro.net\nPerception and cognition: perception-cognition-2071.djnavarro.net\nRobust tools class: robust-tools.djnavarro.net\nR for psychological science: psyr.djnavarro.net\nData visualisation: data-vis-2021.djnavarro.net\nCognitive science: cognitive-science-3211.djnavarro.net\nResearch methods workshops: methods-7000.djnavarro.net/"
+  },
+  {
+    "objectID": "sites/index.html#r-package-websites",
+    "href": "sites/index.html#r-package-websites",
+    "title": "My sites",
+    "section": "R package websites",
+    "text": "R package websites\nThe vast majority of these were throwaway projects, use at your own risk!\n\nasciify.djnavarro.net\nbs4cards.djnavarro.net\ncaladown.djnavarro.net\ndamage.djnavarro.net\nflametree.djnavarro.net\njasmines.djnavarro.net\njaysire.djnavarro.net\nlsr.djnavarro.net\nqueue.djnavarro.net\nrainbowr.djnavarro.net\nrefinery.djnavarro.net\nscrawl.djnavarro.net\nvoronoise.djnavarro.net\nworkbch.djnavarro.net"
+  },
+  {
+    "objectID": "sites/index.html#miscellanea",
+    "href": "sites/index.html#miscellanea",
+    "title": "My sites",
+    "section": "Miscellanea",
+    "text": "Miscellanea\n\nMy old lab website: ccss.djnavarro.net\nArt from code: art-from-code.netlify.app\nWebr demo: webr-automata.djnavarro.net\nNeocities: djnavarro.neocities.org\nDonuts (not currently live): donut.djnavarro.net"
   },
   {
     "objectID": "index.html",

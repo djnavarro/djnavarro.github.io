@@ -1,0 +1,57 @@
+---
+title: "My sites"
+---
+
+## Primary sites
+
+- Homepage: [djnavarro.net](https://djnavarro.net)
+- Blog: [blog.djnavarro.net](https://blog.djnavarro.net)
+- Art: [art.djnavarro.net](https://art.djnavarro.net)
+- Academic research: [papers.djnavarro.net](https://papers.djnavarro.net)
+
+## Other data science sites
+
+- Data science slides: [slides.djnavarro.net](https://slides.djnavarro.net)
+- Software (placeholder site only): [software.djnavarro.net](https://software.djnavarro.net)
+- Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
+- Arrow workshop: [arrow-user2022.netlify.app](https://arrow-user2022.netlify.app)
+- Data visualisation workshop: [satrdayjoburg.djnavarro.net](https://satrdayjoburg.djnavarro.net)
+
+## Academic teaching
+
+- Minds and machines: [minds-machines-4103.djnavarro.net](minds-machines-4103.djnavarro.net/)
+- Computational cognitive science: [compcogsci-3016.djnavarro.net](https://compcogsci-3016.djnavarro.net/)
+- Perception and cognition: [perception-cognition-2071.djnavarro.net](https://perception-cognition-2071.djnavarro.net)
+- Robust tools class: [robust-tools.djnavarro.net](https://robust-tools.djnavarro.net/)
+- R for psychological science: [psyr.djnavarro.net](https://psyr.djnavarro.net)
+- Data visualisation: [data-vis-2021.djnavarro.net](https://data-vis-2021.djnavarro.net)
+- Cognitive science: [cognitive-science-3211.djnavarro.net](https://cognitive-science-3211.djnavarro.net)
+- Research methods workshops: [methods-7000.djnavarro.net/](https://methods-7000.djnavarro.net/)
+
+## R package websites
+
+The vast majority of these were throwaway projects, use at your own risk!
+
+- [asciify.djnavarro.net](https://asciify.djnavarro.net)
+- [bs4cards.djnavarro.net](https://bs4cards.djnavarro.net)
+- [caladown.djnavarro.net](https://caladown.djnavarro.net)
+- [damage.djnavarro.net](https://damage.djnavarro.net)
+- [flametree.djnavarro.net](https://flametree.djnavarro.net)
+- [jasmines.djnavarro.net](https://jasmines.djnavarro.net)
+- [jaysire.djnavarro.net](https://jaysire.djnavarro.net)
+- [lsr.djnavarro.net](https://lsr.djnavarro.net)
+- [queue.djnavarro.net](https://queue.djnavarro.net)
+- [rainbowr.djnavarro.net](https://rainbowr.djnavarro.net)
+- [refinery.djnavarro.net](https://refinery.djnavarro.net)
+- [scrawl.djnavarro.net](https://scrawl.djnavarro.net)
+- [voronoise.djnavarro.net](https://voronoise.djnavarro.net)
+- [workbch.djnavarro.net](https://workbch.djnavarro.net)
+
+## Miscellanea
+
+- My old lab website: [ccss.djnavarro.net](https://ccss.djnavarro.net/)
+- Art from code: [art-from-code.netlify.app](https://art-from-code.netlify.app)
+- Webr demo: [webr-automata.djnavarro.net](https://webr-automata.djnavarro.net)
+- Neocities: [djnavarro.neocities.org](https://djnavarro.neocities.org/)
+- Donuts (not currently live): [donut.djnavarro.net](https://donut.djnavarro.net)
+
