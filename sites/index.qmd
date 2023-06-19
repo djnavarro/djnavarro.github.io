@@ -51,6 +51,7 @@ The vast majority of these were throwaway projects, use at your own risk!
 
 - My old lab website: [ccss.djnavarro.net](https://ccss.djnavarro.net/)
 - Art from code: [art-from-code.netlify.app](https://art-from-code.netlify.app)
+- Notes on learning C++: [learning-cpp.djnavarro.net](https://learning-cpp.djnavarro.net)
 - Webr demo: [webr-automata.djnavarro.net](https://webr-automata.djnavarro.net)
 - Neocities: [djnavarro.neocities.org](https://djnavarro.neocities.org/)
 - Journal: [journal.djnavarro.net](https://journal.djnavarro.net)
