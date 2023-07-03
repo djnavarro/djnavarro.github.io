@@ -3,7 +3,7 @@ page-layout: full
 ---
 
 ::: {.banner}
-![](danielle.jpg){width=300px fig-align="center" class="circular" alt="Profile photo of the author with images of R package stickers superimposed."}
+![](image/danielle.jpg){width=300px fig-align="center" class="circular" alt="Profile photo of the author with images of R package stickers superimposed."}
 
 ::: {.centered}
 # Danielle Navarro
