@@ -1,9 +1,7 @@
 project:
   type: website
   output-dir: docs
-  post-render:
-    - "touch docs/.nojekyll"
-    - "echo 'djnavarro.net' > docs/CNAME"
+  post-render: ./post-render.sh
 
 website:
   title: "Danielle Navarro"
