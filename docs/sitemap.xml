@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://djnavarro.net/contact/index.html</loc>
-    <lastmod>2023-06-19T01:58:27.759Z</lastmod>
-  </url>
-  <url>
     <loc>https://djnavarro.net/sites/index.html</loc>
-    <lastmod>2023-06-19T01:58:27.995Z</lastmod>
-  </url>
-  <url>
-    <loc>https://djnavarro.net/index.html</loc>
-    <lastmod>2023-06-19T01:58:28.787Z</lastmod>
+    <lastmod>2023-07-03T01:16:32.800Z</lastmod>
   </url>
   <url>
     <loc>https://djnavarro.net/about/index.html</loc>
-    <lastmod>2023-06-19T01:58:28.947Z</lastmod>
+    <lastmod>2023-07-03T01:16:31.565Z</lastmod>
+  </url>
+  <url>
+    <loc>https://djnavarro.net/contact/index.html</loc>
+    <lastmod>2023-07-03T01:16:31.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://djnavarro.net/index.html</loc>
+    <lastmod>2023-07-03T01:16:32.529Z</lastmod>
   </url>
 </urlset>
