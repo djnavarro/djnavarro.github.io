@@ -54,6 +54,5 @@ The vast majority of these were throwaway projects, use at your own risk!
 - Notes on learning C++: [learning-cpp.djnavarro.net](https://learning-cpp.djnavarro.net)
 - Webr demo: [webr-automata.djnavarro.net](https://webr-automata.djnavarro.net)
 - Neocities: [djnavarro.neocities.org](https://djnavarro.neocities.org/)
-- Journal: [journal.djnavarro.net](https://journal.djnavarro.net)
 - Donuts (not currently live): [donut.djnavarro.net](https://donut.djnavarro.net)
 
