@@ -2,9 +2,11 @@
 title: "About me"
 ---
 
-Hi there! I'm Danielle Navarro. I'm a data scientist, generative artist, and a recovering academic living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I've sometimes been accused of being a statistician. 
+Hi there! I'm Danielle Navarro. I'm a [data scientist](https://blog.djnavarro.net), [generative artist](https://art.djnavarro.net), and a [recovering academic](https://papers.djnavarro.net) living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I've sometimes been accused of being a statistician. 
 
 ::: {.column-margin}
 
 ![](../image/danielle-2.jpg){fig-align="center" alt="Profile photo of the author looking serious."}
 :::
+
+A little potted history of my career path. After getting my Ph.D. in mathematical psychology in 2003, I held tenured academic positions at the [University of Adelaide](https://www.adelaide.edu.au/) (2006-2015) and then the [University of New South Wales](https://www.unsw.edu.au/) (2016-2021). My academic work was a mix of quantitative psychology, statistics, and data science, and like most such positions mine involved a mix of research, teaching, and managerial responsibilities. In 2022 I moved into an industry-based role at [Voltron Data](https://voltrondata.com/), where I held a developer advocate position focusing on analytics and larger-than-memory data workflows. For reasons that absolutely made sense to me at the time, I followed that with another career pivot, this time into more statistics-focused roles. Starting in mid-2023, I've taken up a pharmacometrics position at [Certara](https://www.certara.com/).
