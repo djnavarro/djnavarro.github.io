@@ -39,21 +39,21 @@
     "href": "sites/index.html#miscellanea",
     "title": "My sites",
     "section": "Miscellanea",
-    "text": "Miscellanea\n\nMy old lab website: ccss.djnavarro.net\nArt from code: art-from-code.netlify.app\nNotes on learning C++: learning-cpp.djnavarro.net\nWebr demo: webr-automata.djnavarro.net\nNeocities: djnavarro.neocities.org\nJournal: journal.djnavarro.net\nDonuts (not currently live): donut.djnavarro.net"
+    "text": "Miscellanea\n\nMy old lab website: ccss.djnavarro.net\nArt from code: art-from-code.netlify.app\nNotes on learning C++: learning-cpp.djnavarro.net\nWebr demo: webr-automata.djnavarro.net\nNeocities: djnavarro.neocities.org\nDonuts (not currently live): donut.djnavarro.net"
   },
   {
     "objectID": "about/index.html",
     "href": "about/index.html",
     "title": "About me",
     "section": "",
-    "text": "Hi there! I’m Danielle Navarro. I’m a data scientist, generative artist, and a recovering academic living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician."
+    "text": "Hi there! I’m Danielle Navarro. I’m a data scientist, generative artist, and a recovering academic living in Sydney with my two kids and a Netflix subscription. Once upon a time I was a mathematical psychologist. After that I was developer advocate and occasional software engineer. I’ve sometimes been accused of being a statistician.\n\n\n\n\n\n\n\nA little potted history of my career path. After getting my Ph.D. in mathematical psychology in 2003, I held tenured academic positions at the University of Adelaide (2006-2015) and then the University of New South Wales (2016-2021). My academic work was a mix of quantitative psychology, statistics, and data science, and like most such positions mine involved a mix of research, teaching, and managerial responsibilities. In 2022 I moved into an industry-based role at Voltron Data, where I held a developer advocate position focusing on analytics and larger-than-memory data workflows. For reasons that absolutely made sense to me at the time, I followed that with another career pivot, this time into more statistics-focused roles. Starting in mid-2023, I’ve taken up a pharmacometrics position at Certara."
   },
   {
     "objectID": "contact/index.html",
     "href": "contact/index.html",
-    "title": "My contact details",
+    "title": "Contact details, social media, etc",
     "section": "",
-    "text": "Email: djnavarro@protonmail.com\nGitHub: github.com/djnavarro\nMastodon (data science): @djnavarro@fosstodon.org\nMastodon (generative art): @djnavarro@genart.social\nLinkedIn: djnavarro\nYouTube: daniellenavarro77\nTwitter (defunct): @djnavarro"
+    "text": "Email: djnavarro@protonmail.com\nGitHub: github.com/djnavarro\nMastodon: fosstodon.org/@djnavarro\nPixelfed: pixelfed.social/@djnavarro\nLinkedIn: linkedin.com/in/djnavarro\nYouTube: www.youtube.com/c/daniellenavarro77\nTwitter (defunct): twitter.com/djnavarro\nOrcid: orcid.org/0000-0001-7648-6578\nScholar: scholar.google.com/citations?user=QPH_lRIAAAAJ"
   },
   {
     "objectID": "index.html",
