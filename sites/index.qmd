@@ -26,7 +26,7 @@ title: "My sites"
 - R for psychological science: [psyr.djnavarro.net](https://psyr.djnavarro.net)
 - Data visualisation: [data-vis-2021.djnavarro.net](https://data-vis-2021.djnavarro.net)
 - Cognitive science: [cognitive-science-3211.djnavarro.net](https://cognitive-science-3211.djnavarro.net)
-- Research methods workshops: [methods-7000.djnavarro.net/](https://methods-7000.djnavarro.net/)
+- Research methods workshops: [methods-7000.djnavarro.net](https://methods-7000.djnavarro.net/)
 
 ## R package websites
 
@@ -50,7 +50,6 @@ The vast majority of these were throwaway projects, use at your own risk!
 
 ## Miscellanea
 
-- My old lab website: [ccss.djnavarro.net](https://ccss.djnavarro.net/)
 - Art from code: [art-from-code.netlify.app](https://art-from-code.netlify.app)
 - Notes on learning C++: [learning-cpp.djnavarro.net](https://learning-cpp.djnavarro.net)
 - Webr demo: [webr-automata.djnavarro.net](https://webr-automata.djnavarro.net)

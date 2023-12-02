@@ -11,7 +11,7 @@
     "href": "contact/index.html",
     "title": "Contact details, social media, etc",
     "section": "",
-    "text": "Email: djnavarro@protonmail.com\nGitHub: github.com/djnavarro\nMastodon: fosstodon.org/@djnavarro\nPixelfed: pixelfed.social/@djnavarro\nLinkedIn: linkedin.com/in/djnavarro\nYouTube: www.youtube.com/c/daniellenavarro77\nTwitter (defunct): twitter.com/djnavarro\nOrcid: orcid.org/0000-0001-7648-6578\nScholar: scholar.google.com/citations?user=QPH_lRIAAAAJ"
+    "text": "Email: djnavarro@protonmail.com\nGitHub: github.com/djnavarro\nMastodon: hachyderm.io/@djnavarro\nLinkedIn: linkedin.com/in/djnavarro \nOrcid: orcid.org/0000-0001-7648-6578\nScholar: scholar.google.com/citations?user=QPH_lRIAAAAJ"
   },
   {
     "objectID": "sites/index.html",
@@ -39,7 +39,7 @@
     "href": "sites/index.html#academic-teaching",
     "title": "My sites",
     "section": "Academic teaching",
-    "text": "Academic teaching\n\nMinds and machines: minds-machines-4103.djnavarro.net\nComputational cognitive science: compcogsci-3016.djnavarro.net\nPerception and cognition: perception-cognition-2071.djnavarro.net\nRobust tools class: robust-tools.djnavarro.net\nR for psychological science: psyr.djnavarro.net\nData visualisation: data-vis-2021.djnavarro.net\nCognitive science: cognitive-science-3211.djnavarro.net\nResearch methods workshops: methods-7000.djnavarro.net/"
+    "text": "Academic teaching\n\nMinds and machines: minds-machines-4103.djnavarro.net\nComputational cognitive science: compcogsci-3016.djnavarro.net\nPerception and cognition: perception-cognition-2071.djnavarro.net\nRobust tools class: robust-tools.djnavarro.net\nR for psychological science: psyr.djnavarro.net\nData visualisation: data-vis-2021.djnavarro.net\nCognitive science: cognitive-science-3211.djnavarro.net\nResearch methods workshops: methods-7000.djnavarro.net"
   },
   {
     "objectID": "sites/index.html#r-package-websites",
@@ -53,7 +53,7 @@
     "href": "sites/index.html#miscellanea",
     "title": "My sites",
     "section": "Miscellanea",
-    "text": "Miscellanea\n\nMy old lab website: ccss.djnavarro.net\nArt from code: art-from-code.netlify.app\nNotes on learning C++: learning-cpp.djnavarro.net\nWebr demo: webr-automata.djnavarro.net\nNeocities: djnavarro.neocities.org\nDonuts (not currently live): donut.djnavarro.net"
+    "text": "Miscellanea\n\nArt from code: art-from-code.netlify.app\nNotes on learning C++: learning-cpp.djnavarro.net\nWebr demo: webr-automata.djnavarro.net\nNeocities: djnavarro.neocities.org\nDonuts (not currently live): donut.djnavarro.net"
   },
   {
     "objectID": "about/index.html",

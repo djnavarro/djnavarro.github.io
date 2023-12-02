@@ -4,10 +4,11 @@ title: "Contact details, social media, etc"
 
 - Email: [djnavarro@protonmail.com](mailto:djnavarro@protonmail.com)
 - GitHub: [github.com/djnavarro](https://github.com/djnavarro)
-- Mastodon: [fosstodon.org/@djnavarro](https://fosstodon.org/@djnavarro)
-- Pixelfed: [pixelfed.social/@djnavarro](https://pixelfed.social/@djnavarro)
+- Mastodon: [hachyderm.io/@djnavarro](https://hachyderm.io/@djnavarro)
 - LinkedIn: [linkedin.com/in/djnavarro](https://www.linkedin.com/in/djnavarro)
+<!-- 
 - YouTube: [www.youtube.com/c/daniellenavarro77](https://www.youtube.com/c/daniellenavarro77)
 - Twitter (defunct): [twitter.com/djnavarro](https://twitter.com/djnavarro)
+-->
 - Orcid: [orcid.org/0000-0001-7648-6578](https://orcid.org/0000-0001-7648-6578)
 - Scholar: [scholar.google.com/citations?user=QPH_lRIAAAAJ](https://scholar.google.com/citations?user=QPH_lRIAAAAJ)
