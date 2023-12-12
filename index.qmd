@@ -3,12 +3,12 @@ page-layout: full
 ---
 
 ::: {.banner}
-![](image/danielle-4.jpg){width=300px fig-align="center" class="circular" alt="Profile photo of the author with images of R package stickers superimposed."}
+![](image/danielle-4.jpg){width=300px fig-align="center" class="circular" alt="Greyscale profile photo of the author with generative art superimposed."}
 
 ::: {.centered}
 # Danielle Navarro
 
-Data scientist, recovering academic, and generative artist
+Data scientist, recovering academic, and generative artist. Originally a mathematical psychologist, worked in tech for a bit, now a statistics lady in pharmacometrics. Author of various books, papers, and so forth. Chronic email ignorer.
 :::
 
 :::
