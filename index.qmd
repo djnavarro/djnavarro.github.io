@@ -77,6 +77,16 @@ add_card(
   link_text = "papers.djnavarro.net"
 )
 
+
+add_card(
+  src = "image/bayes-er.png",
+  title = "Bayesian exposure-response analysis", 
+  text = "It was never my intention to become a Bayesian evangelist in pharmacometrics, but I suppose it was an inevitability given my history as a Bayesian evangelist in mathematical psychology, cognitive science, psychometrics, and data science. Le sigh.",
+  url = "https://genentech.github.io/BayesERbook/",
+  img_alt = "A hex sticker advertising an R package",
+  link_text = "genentech.github.io/BayesERbook"
+)
+
 add_card(
   src = "image/art-from-code.jpg",
   title = "Art from code", 
