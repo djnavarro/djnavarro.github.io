@@ -12,7 +12,7 @@ title: "My sites"
 ## Other data science sites
 
 - Data science slides: [slides.djnavarro.net](https://slides.djnavarro.net)
-- Software (placeholder site only): [software.djnavarro.net](https://software.djnavarro.net)
+- Code projects: [code.djnavarro.net](https://code.djnavarro.net)
 - Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
 - Arrow workshop: [arrow-user2022.netlify.app](https://arrow-user2022.netlify.app)
 - Data visualisation workshop: [satrdayjoburg.djnavarro.net](https://satrdayjoburg.djnavarro.net)
@@ -27,26 +27,6 @@ title: "My sites"
 - Data visualisation: [data-vis-2021.djnavarro.net](https://data-vis-2021.djnavarro.net)
 - Cognitive science: [cognitive-science-3211.djnavarro.net](https://cognitive-science-3211.djnavarro.net)
 - Research methods workshops: [methods-7000.djnavarro.net](https://methods-7000.djnavarro.net/)
-
-## R package websites
-
-The vast majority of these were throwaway projects, use at your own risk!
-
-- [arttools.djnavarro.net](https://arttools.djnavarro.net)
-- [asciify.djnavarro.net](https://asciify.djnavarro.net)
-- [bs4cards.djnavarro.net](https://bs4cards.djnavarro.net)
-- [caladown.djnavarro.net](https://caladown.djnavarro.net)
-- [damage.djnavarro.net](https://damage.djnavarro.net)
-- [flametree.djnavarro.net](https://flametree.djnavarro.net)
-- [jasmines.djnavarro.net](https://jasmines.djnavarro.net)
-- [jaysire.djnavarro.net](https://jaysire.djnavarro.net)
-- [lsr.djnavarro.net](https://lsr.djnavarro.net)
-- [queue.djnavarro.net](https://queue.djnavarro.net)
-- [rainbowr.djnavarro.net](https://rainbowr.djnavarro.net)
-- [refinery.djnavarro.net](https://refinery.djnavarro.net)
-- [scrawl.djnavarro.net](https://scrawl.djnavarro.net)
-- [voronoise.djnavarro.net](https://voronoise.djnavarro.net)
-- [workbch.djnavarro.net](https://workbch.djnavarro.net)
 
 ## Miscellanea
 
