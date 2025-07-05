@@ -18,21 +18,21 @@
     "href": "sites/index.html",
     "title": "My sites",
     "section": "",
-    "text": "Homepage: djnavarro.net\nBlog: blog.djnavarro.net\nArt: art.djnavarro.net\nAcademic research: papers.djnavarro.net"
+    "text": "Home: djnavarro.net\nBlog: blog.djnavarro.net\nArt: art.djnavarro.net\nCode: code.djnavarro.net\nPapers: papers.djnavarro.net"
   },
   {
     "objectID": "sites/index.html#primary-sites",
     "href": "sites/index.html#primary-sites",
     "title": "My sites",
     "section": "",
-    "text": "Homepage: djnavarro.net\nBlog: blog.djnavarro.net\nArt: art.djnavarro.net\nAcademic research: papers.djnavarro.net"
+    "text": "Home: djnavarro.net\nBlog: blog.djnavarro.net\nArt: art.djnavarro.net\nCode: code.djnavarro.net\nPapers: papers.djnavarro.net"
   },
   {
-    "objectID": "sites/index.html#other-data-science-sites",
-    "href": "sites/index.html#other-data-science-sites",
+    "objectID": "sites/index.html#statistics-data-science-etc",
+    "href": "sites/index.html#statistics-data-science-etc",
     "title": "My sites",
-    "section": "Other data science sites",
-    "text": "Other data science sites\n\nData science slides: slides.djnavarro.net\nCode projects: code.djnavarro.net\nLearning statistics with R: learningstatisticswithr.com\nArrow workshop: arrow-user2022.netlify.app\nData visualisation workshop: satrdayjoburg.djnavarro.net"
+    "section": "Statistics, data science, etc",
+    "text": "Statistics, data science, etc\n\nData science slides: slides.djnavarro.net\nLearning statistics with R: learningstatisticswithr.com\nArrow workshop: arrow-user2022.netlify.app\nData visualisation workshop: satrdayjoburg.djnavarro.net"
   },
   {
     "objectID": "sites/index.html#academic-teaching",

@@ -4,15 +4,15 @@ title: "My sites"
 
 ## Primary sites
 
-- Homepage: [djnavarro.net](https://djnavarro.net)
+- Home: [djnavarro.net](https://djnavarro.net)
 - Blog: [blog.djnavarro.net](https://blog.djnavarro.net)
 - Art: [art.djnavarro.net](https://art.djnavarro.net)
-- Academic research: [papers.djnavarro.net](https://papers.djnavarro.net)
+- Code: [code.djnavarro.net](https://code.djnavarro.net)
+- Papers: [papers.djnavarro.net](https://papers.djnavarro.net)
 
-## Other data science sites
+## Statistics, data science, etc 
 
 - Data science slides: [slides.djnavarro.net](https://slides.djnavarro.net)
-- Code projects: [code.djnavarro.net](https://code.djnavarro.net)
 - Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
 - Arrow workshop: [arrow-user2022.netlify.app](https://arrow-user2022.netlify.app)
 - Data visualisation workshop: [satrdayjoburg.djnavarro.net](https://satrdayjoburg.djnavarro.net)
