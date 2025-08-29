@@ -14,7 +14,6 @@ website:
     card-style: summary_large_image
   navbar:
     title: false
-    background: "#eee"
     left:
       - href: index.qmd
         text: Home
@@ -44,9 +43,11 @@ website:
 
 format:
   html:
-    theme: ember.scss
+    respect-user-color-scheme: true
+    theme: 
+      dark: ash.scss
+      light: ember.scss
     css: styles.css
     include-after-body: plausible.html
-
 
 
