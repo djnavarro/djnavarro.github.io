@@ -77,6 +77,15 @@ add_card(
   link_text = "papers.djnavarro.net"
 )
 
+add_card(
+  src = "image/code-advent.png",
+  title = "Code, software, et cetera", 
+  text = "I write code sometimes, and it is... fine :)",
+  url = "https://code.djnavarro.net",
+  img_alt = "Abstract geometric art with a kind of mechanistic vibe",
+  link_text = "code.djnavarro.net"
+)
+
 
 add_card(
   src = "image/bayes-er.png",
