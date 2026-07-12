@@ -96,14 +96,14 @@ add_card(
 #   link_text = "genentech.github.io/BayesERbook"
 # )
 
-add_card(
-  src = "image/art-from-code.jpg",
-  title = "Art from code", 
-  text = "A full-length tutorial on generative art in R released under a CC-BY licence, originally delivered as a workshop for rstudio::conf in 2022.",
-  img_alt = "Three hexagons in red, yellow, and blue against a grey background. Image text reads 'Art From Code'.",
-  url = "https://art-from-code.netlify.app",
-  link_text = "art-from-code.netlify.app"
-)
+# add_card(
+#   src = "image/art-from-code.jpg",
+#   title = "Art from code", 
+#   text = "A full-length tutorial on generative art in R released under a CC-BY licence, originally delivered as a workshop for rstudio::conf in 2022.",
+#   img_alt = "Three hexagons in red, yellow, and blue against a grey background. Image text reads 'Art From Code'.",
+#   url = "https://art-from-code.netlify.app",
+#   link_text = "art-from-code.netlify.app"
+# )
 
 
 add_card(
@@ -124,23 +124,23 @@ add_card(
   link_text = "learningstatisticswithr.com"
 )
 
-add_card(
-  src = "image/ggplot2-book-splash.png",
-  title = "The ggplot2 book", 
-  text = "Together with Hadley Wickham and Thomas Lin Pedersen, I am one of the authors of \"ggplot2: Elegant graphics for data analysis\".",
-  img_alt = "The ggplot2 logo, against a black background",
-  url = "https://ggplot2-book.org",
-  link_text = "ggplot2-book.org"
-)
+# add_card(
+#   src = "image/ggplot2-book-splash.png",
+#   title = "The ggplot2 book", 
+#   text = "Together with Hadley Wickham and Thomas Lin Pedersen, I am one of the authors of \"ggplot2: Elegant graphics for data analysis\".",
+#   img_alt = "The ggplot2 logo, against a black background",
+#   url = "https://ggplot2-book.org",
+#   link_text = "ggplot2-book.org"
+# )
 
-add_card(
-  src = "image/slides-splash.jpg",
-  title = "Data science slides", 
-  text = "My data science slide decks — some of them, at least — are hosted on their own site. They cover a variety of topics in R, Apache Arrow, data science, and practical details of project oriented workflow.",
-  img_alt = "Old-fashioned projector slides, with the title 'Data science slide decks'.",
-  url = "https://slides.djnavarro.net",
-  link_text = "slides.djnavarro.net"
-)
+# add_card(
+#   src = "image/slides-splash.jpg",
+#   title = "Data science slides", 
+#   text = "My data science slide decks — some of them, at least — are hosted on their own site. They cover a variety of topics in R, Apache Arrow, data science, and practical details of project oriented workflow.",
+#   img_alt = "Old-fashioned projector slides, with the title 'Data science slide decks'.",
+#   url = "https://slides.djnavarro.net",
+#   link_text = "slides.djnavarro.net"
+# )
 
 ```
 
