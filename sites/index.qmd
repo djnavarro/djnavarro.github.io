@@ -22,7 +22,6 @@ title: "My sites"
 - Computational cognitive science: [compcogsci-3016.djnavarro.net](https://compcogsci-3016.djnavarro.net/)
 - Perception and cognition: [perception-cognition-2071.djnavarro.net](https://perception-cognition-2071.djnavarro.net)
 - Robust tools class: [robust-tools.djnavarro.net](https://robust-tools.djnavarro.net/)
-- R for psychological science: [psyr.djnavarro.net](https://psyr.djnavarro.net)
 - Data visualisation: [data-vis-2021.djnavarro.net](https://data-vis-2021.djnavarro.net)
 - Cognitive science: [cognitive-science-3211.djnavarro.net](https://cognitive-science-3211.djnavarro.net)
 - Research methods workshops: [methods-7000.djnavarro.net](https://methods-7000.djnavarro.net/)
