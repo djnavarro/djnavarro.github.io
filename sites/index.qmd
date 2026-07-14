@@ -15,7 +15,6 @@ title: "My sites"
 - Data science slides: [slides.djnavarro.net](https://slides.djnavarro.net)
 - Learning statistics with R: [learningstatisticswithr.com](https://learningstatisticswithr.com)
 - Arrow workshop: [arrow-user2022.netlify.app](https://arrow-user2022.netlify.app)
-- Data visualisation workshop: [satrdayjoburg.djnavarro.net](https://satrdayjoburg.djnavarro.net)
 
 ## Academic teaching
 
@@ -31,8 +30,5 @@ title: "My sites"
 ## Miscellanea
 
 - Art from code: [art-from-code.netlify.app](https://art-from-code.netlify.app)
-- Notes on learning C++: [learning-cpp.djnavarro.net](https://learning-cpp.djnavarro.net)
-- Webr demo: [webr-automata.djnavarro.net](https://webr-automata.djnavarro.net)
 - Neocities: [djnavarro.neocities.org](https://djnavarro.neocities.org/)
-- Donuts (not currently live): [donut.djnavarro.net](https://donut.djnavarro.net)
 
