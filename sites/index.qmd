@@ -18,13 +18,13 @@ title: "My sites"
 
 ## Academic teaching
 
-- Minds and machines: [minds-machines-4103.djnavarro.net](https://minds-machines-4103.djnavarro.net/)
-- Computational cognitive science: [compcogsci-3016.djnavarro.net](https://compcogsci-3016.djnavarro.net/)
-- Perception and cognition: [perception-cognition-2071.djnavarro.net](https://perception-cognition-2071.djnavarro.net)
-- Robust tools class: [robust-tools.djnavarro.net](https://robust-tools.djnavarro.net/)
-- Data visualisation: [data-vis-2021.djnavarro.net](https://data-vis-2021.djnavarro.net)
-- Cognitive science: [cognitive-science-3211.djnavarro.net](https://cognitive-science-3211.djnavarro.net)
-- Research methods workshops: [methods-7000.djnavarro.net](https://methods-7000.djnavarro.net/)
+- Minds and machines: [cogsci.djnavarro.net/minds-machines-4103](https://cogsci.djnavarro.net/minds-machines-4103)
+- Computational cognitive science: [cogsci.djnavarro.net/compcogsci-3016](https://cogsci.djnavarro.net/compcogsci-3016)
+- Perception and cognition: [cogsci.djnavarro.net/perception-cognition-2071](https://cogsci.djnavarro.net/perception-cognition-2071)
+- Robust tools class: [cogsci.djnavarro.net/robust-tools](https://cogsci.djnavarro.net/robust-tools)
+- Data visualisation: [cogsci.djnavarro.net/data-vis-2021](https://cogsci.djnavarro.net/data-vis-2021)
+- Cognitive science: [cogsci.djnavarro.net/cognitive-science-3211](https://cogsci.djnavarro.net/cognitive-science-3211)
+- Research methods workshops: [cogsci.djnavarro.net/methods-7000](https://cogsci.djnavarro.net/methods-7000)
 
 ## Miscellanea
 
