@@ -18,7 +18,7 @@ title: "My sites"
 
 ## Academic teaching
 
-- Minds and machines: [minds-machines-4103.djnavarro.net](minds-machines-4103.djnavarro.net/)
+- Minds and machines: [minds-machines-4103.djnavarro.net](https://minds-machines-4103.djnavarro.net/)
 - Computational cognitive science: [compcogsci-3016.djnavarro.net](https://compcogsci-3016.djnavarro.net/)
 - Perception and cognition: [perception-cognition-2071.djnavarro.net](https://perception-cognition-2071.djnavarro.net)
 - Robust tools class: [robust-tools.djnavarro.net](https://robust-tools.djnavarro.net/)
