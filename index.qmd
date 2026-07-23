@@ -53,7 +53,7 @@ add_card <- function(src, title, text, url, link_text, img_alt) {
 add_card(
   src = "image/blog-site-splash.jpg",
   title = "Data science blog", 
-  text = "I write a data science blog, \"Notes from a data witch\". It covers a variety of topics including R, Python, Apache Arrow, Linux, and many other things related to data analysis workflows",
+  text = "I write a data science blog, \"Notes from a data witch\". It covers a variety of topics including R, Python, Linux, and many other things related to data analysis workflows. Sometimes this is useful, mostly it's a time-sink.",
   url = "https://blog.djnavarro.net",
   img_alt = "A pretty rainbow colour wheel that I created as part of a blog post.",
   link_text = "blog.djnavarro.net"
@@ -62,7 +62,7 @@ add_card(
 add_card(
   src = "image/art-site-splash.jpg",
   title = "Generative art", 
-  text = "I have a generative art website where I post various art series under creative commons licences. For some series the source code is also available on github.",
+  text = "I have a generative art website where I post various art series under creative commons licences. For some series the source code is also available on github. There's no AI in this, it's the other kind of generative art.",
   img_alt = "Generative art showing swirls of yellow against a grey background.",
   url = "https://art.djnavarro.net",
   link_text = "art.djnavarro.net"
@@ -71,7 +71,7 @@ add_card(
 add_card(
   src = "image/papers-splash.jpg",
   title = "Academic work", 
-  text = "In a former life I was a tenured academic. I wrote over 100 peer-reviewed papers and 4 books, and (apparently) have an h-index in the 40s. I was even on the Board of Reviewing Editors at Science for a while. Out of habit I keep a (somewhat) up to date archive of my scientific papers.",
+  text = "In a former life I was an academic. I've not yet succeeded in repressing all the memories of the experience, and out of habit I still keep an archive of my scientific papers.",
   img_alt = "Many sheets of white paper laid out semi-randomly.",
   url = "https://papers.djnavarro.net",
   link_text = "papers.djnavarro.net"
@@ -147,8 +147,6 @@ add_card(
 :::
 
 <!-- Mastodon verification -->
-<a rel="me" style="display:none" href="https://fosstodon.org/@djnavarro">Hidden link used to verify my account on fosstodon.org</a> 
-<a rel="me" style="display:none" href="https://genart.social/@djnavarro">Hidden link used to verify my account on genart.social</a>
 <a rel="me" style="display:none" href="https://hachyderm.io/@djnavarro">Hidden link used to verify my account on hachyderm.io</a>
 
 
